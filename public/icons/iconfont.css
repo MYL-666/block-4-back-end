@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4846431 */
+  src: url('iconfont.woff2?t=1741097002677') format('woff2'),
+       url('iconfont.woff?t=1741097002677') format('woff'),
+       url('iconfont.ttf?t=1741097002677') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook3:before {
+  content: "\e6e1";
+}
+
+.icon-banjiketang:before {
+  content: "\e632";
+}
+
+.icon-parents:before {
+  content: "\e674";
+}
+
+.icon-Student:before {
+  content: "\e707";
+}
+
+.icon-gongzi:before {
+  content: "\e600";
+}
+
+.icon-instagram:before {
+  content: "\e6fc";
+}
+
+.icon-twiter:before {
+  content: "\e601";
+}
+
+.icon-teacher_basic:before {
+  content: "\e650";
+}
+
+.icon-location-fill:before {
+  content: "\e83d";
+}
+
+.icon-email-fill:before {
+  content: "\e856";
+}
+
+.icon-phone-fill:before {
+  content: "\e85f";
+}
+
+.icon-dagou-4:before {
+  content: "\e60e";
+}
+
+.icon-library:before {
+  content: "\e822";
+}
+
